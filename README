@@ -1,9 +1,0 @@
-
-# Setup
-
-Add this to your `.bashrc`:
-
-    export BAREMETAL_IMAGE=~/baremetal/baremetal.img # Or wherever your image file is
-
-
-
