@@ -3,6 +3,8 @@
 
     $ git clone git://github.com/dharmatech/bm-utils.git
 
+Add the full path to `bm-utils` to your PATH.
+
 `baremetal.img.gz` contains an image file that's ready to use with
 qemu. Just unzip it:
 
